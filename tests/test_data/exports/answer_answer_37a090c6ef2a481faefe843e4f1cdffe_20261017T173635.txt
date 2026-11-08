@@ -1,0 +1,36 @@
+BTech Study Intelligence — Answer Report
+Generated: 2026-10-17T17:36:35.382429+00:00
+
+Question:
+What is a cache?
+
+PDF-Grounded Answer:
+The uploaded PDF provides partial support for this question. What follows is the portion the PDF supports, with citations. Missing or unclear parts are listed at the end and, where available, addressed separately in the supplementary note.
+
+AI-Enhanced Supplementary Note:
+The PDF only partially addresses this question. Supplementary explanation, if provided, is added separately and clearly labeled as coming from general model knowledge rather than the PDF.
+
+Evidence Coverage:
+{
+  "status": "partial",
+  "passage_count": 1,
+  "page_numbers": [
+    2
+  ],
+  "document_ids": [
+    "doc_9a807b872b0d4532a368771110be09c8"
+  ],
+  "fully_supported": 0,
+  "partially_supported": 1,
+  "conflicting": 0,
+  "conflicting_passages": [],
+  "missing": false,
+  "missing_reasons": [
+    "Only partial coverage found; answer may be incomplete."
+  ],
+  "suggested_next": "Review missing sections; the AI-enhanced answer may add context clearly labeled as outside the PDF."
+}
+
+Source Citations:
+- Page 2 (doc doc_9a807b872b0d4532a368771110be09c8, support: partial):
+  Unit 2 Cache memory A cache stores recently used data close to the CPU. Hit ratio measures effectiveness.

@@ -1,0 +1,9 @@
+streamlit==1.66.0
+pypdf==6.21.1
+pillow==12.3.0
+reportlab==5.0.1
+python-docx==1.2.0
+httpx==0.28.1
+
+# tests
+pytest==9.1.1

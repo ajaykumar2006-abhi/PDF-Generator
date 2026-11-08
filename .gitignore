@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Application data (uploads, SQLite store, generated figures/diagrams/exports)
+data/
+uploads/
+exports/
+generated/
+.env
+
+# Test artifacts
+tests/test_data/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Tooling / editor
+.freebuff/
+.streamlit/secrets.toml
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
